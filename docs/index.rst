@@ -9,7 +9,7 @@ CAKE Docs
 `Feedback <https://goo.gl/forms/GRWbj1zRdEylHJL32>`_
 
 
-.. image :: /image/wip.jpg
+.. warning:: Work in progress, completed version will be releases on Jun 1,2017
 
 
 
