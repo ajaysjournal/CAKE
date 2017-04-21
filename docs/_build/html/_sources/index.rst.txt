@@ -6,9 +6,22 @@
 CAKE Docs
 ==========================================
 
+`Feedback <https://goo.gl/forms/GRWbj1zRdEylHJL32>`_
+
+
+.. image :: /image/wip.jpg
+
+
+
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :numbered:
+   :titlesonly:
+   :glob:
+   :hidden:
+
+   developers.rst
+   
 
 
 
