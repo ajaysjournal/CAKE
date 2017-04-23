@@ -8,7 +8,6 @@ CAKE Docs
 
 `Feedback <https://goo.gl/forms/GRWbj1zRdEylHJL32>`_
 
-
 *Any application we see today, the especially big-data application will have goals/vision for ten years. Otherwise, it will only not work - a note from a Prof at Standford*
 
 
@@ -31,6 +30,9 @@ Cake Goals
 
 
 .. image :: /image/wip.jpg
+=======
+.. warning:: Work in progress, completed version will be releases on Jun 1,2017
+
 
 
 
