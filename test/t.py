@@ -29,7 +29,7 @@ __pop =  int(param[3])
 # Problem Size
 # IND_SIZE = 150
 # __gen = 50
-# __pop = 450
+# __pop = 450cd
 
 print("\n\n- Problem Size ",IND_SIZE)
 print("- Generation  ",__gen)
