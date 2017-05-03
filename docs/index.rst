@@ -9,7 +9,7 @@ CAKE Docs
 `Feedback/Subscribe <https://goo.gl/forms/GRWbj1zRdEylHJL32>`_
 
 
-`Project Report <https://github.com/ajayramesh23/CAKE/blob/master/CAKE%20-%20Project%20Report%20by%20Ajay%20and%20Chandra.pdf>` _
+_`Project Report <https://github.com/ajayramesh23/CAKE/blob/master/CAKE%20-%20Project%20Report%20by%20Ajay%20and%20Chandra.pdf>`_
 
 .. warning:: Work in progress, this document will be updated by Jun 30, 2017
 
